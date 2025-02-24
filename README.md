@@ -1,77 +1,49 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=s&fontSize=90) -->
-
-## 🙋‍♂️ Introduction
-<div align="center">
-<h3>HyeongIl Kim a.k.a. Nemo</h3>
-
-[![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%ED%98%95%EC%9D%BC-%EA%B9%80-0bb74a26a/)
-[![Velog](https://img.shields.io/badge/-Velog-2EC866?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@khi4752)
-
-<!-- **[현재 회사]() Frontend Developer**
-<br />
-**(from 2021.12 ~ Now)** -->
-
-</div>
-
-### 💻 Previous Work Experience
-- Work
-  - 뉴넥스 Tech 광고개발팀 프론트엔드 개발자 / 2023.10. ~ 2024.10.
-  - 서울대학교 영문자막생성팀 / 2023.01. ~ 2023.6.
-  - 공공데이터 청년인턴 / 2021.09. ~ 2021.12.
-<!-- - Full-Time
-  - []() / 2023.01. ~ 2023.01. -->
-
-### 🎓 Education
-- Software Humanities Convergence Major, Chung-Ang University *2015. 03. ~ 2023. 08.*
-  - GPA : All 3.89/4.5, Major 3.89/4.5
-- Michuhol Foreign Language High School *2012.03 ~ 2015.02*
+![header](https://capsule-render.vercel.app/api?type=rounded&height=270&color=gradient&text=안녕하세요,%20김형일입니다.&fontColor=F7F5F5)
 
 
-### ⚒ Tech Skill
-|Classification|Skills|
-|---|---|
-|Frontend, Client|![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-%23323330.svg?style=for-the-badge&logo=Next.js&logoColor=%3178C6)
-|Language|![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Typescript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)|
-|Hosting|![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)|
-|ETC|![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white) ![GithubActions](https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white)|
+ 맡은 작업이 **서비스 전반과 어떻게 연결되는지 파악**하고, **더 나은 해결책을 고민**하는 개발자입니다.
 
-<!-- |Language - Useable|![node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|
-|Backend, Server|![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&logo=Express&style=for-the-badge) ![node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white) ![flask](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
-|Databases|![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white) ![MySQl](https://img.shields.io/b
-|DevOps|![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)adge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)| -->
+ 월 방문자 수 **330만 명** 규모의 패션 커머스 플랫폼에서 **모든 광고 웹뷰 지면을 담당**하며, 다양한 실무자들과 협력해왔습니다. 각 실무자들과 대화의 눈높이를 맞추기 위해, **최소한의 소통에 필요한 백그라운드 지식을 학습**했습니다. 단순한 UI 구현을 넘어 서비스의 전체 흐름을 이해하며 최적화하는 데 집중했습니다.
 
-## 🌏 Other Experience
-### 📝 Project
-**School Project**
- - [Web Crawling & Data Mining](https://drive.google.com/file/d/1qD56_zVjbxMY1e3y6H9manW8UH9D7e0j/view?usp=sharing) / Digital Humanities
- - [SQL Injection](https://www.canva.com/design/DAFVFQvMLX0/cuE6suN3MRktA1AIAYkcUg/edit?utm_content=DAFVFQvMLX0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) / Software Security
+## 💻 Experience.
+- 뉴넥스(브랜디) | Tech 광고개발팀 프론트엔드 개발자 | 2023.10. ~ 2024.10.(1년 1개월)
+- 서울대학교 영문자막생성팀 | 웹서버관리 학생인턴 | 2023.01. ~ 2023.6.(6개월)
 
-**Toy Project**
- - [Nemoflix](https://github.com/brother1-4752/nemoflix)
- - [flexboxCat](https://github.com/brother1-4752/flexboxCat)
- - [hogwartschat](https://github.com/brother1-4752/hogwartschat-v1)
+## 🎓 Education.
+- 원티드 프리온보딩 인턴십 | *2023. 08. ~ 2023. 09.*
+- 중앙대학교 서울캠퍼스 | *2015. 03. ~ 2025. 02.* | 3.89 / 4.5
+  - 융합전공: 인문소프트웨어 전공 | 주전공: 프랑스어문학과
+- 미추홀외국어고등학교 | 영어-중국어과 | *2012.03 ~ 2015.02*
 
+## 📝 Project.
  **Team Project**
- - [Mind-palace](https://github.com/miind-palace/mind-palace-FE)
- <!-- - [KB Finance AI Summarizer](https://github.com/brother1-4752/kb-finance-ai-summarizer) -->
+ - [테오의 스프린트 15기:Mind-Palace](https://github.com/miind-palace)
+ - [테오의 스프린트 16기:About Me!](https://github.com/taeo-sprint16)
+ - [테오의 스프린트 18기:BucketMate](https://github.com/BucketPing)
 
-### 🏅 Awards
-|Awards|Grade|Date|Note|
-|---|---|---|---|
-|2020 CAU 다빈치 SW 공모전 |장려상|2020. 09.|[온공[온라인 공부방]](https://www.swaicau.com/data/file/exhibit_2020/3698592639_nWGivd4L_9b2dd5188de70a1b25a3e46484b75777e14597ef.jpg)|
-|C-디자인 씽킹 경진대회 |우수상|2021. 10. ~ 2021. 11.|[정신질환자를 위한 애프터 케어 서비스](https://docs.google.com/presentation/d/1oiymgX1HxOvbnKq6dI7k2mhDcGYhL2MZt6002953zqU/edit?usp=sharing)|
+<!-- 
+**Toy Project**
+ - [Hogwartschat](https://github.com/brother1-4752/hogwartschat-v1)
+ - [FlexboxCat](https://github.com/brother1-4752/flexboxCat) -->
 
-<!-- ### 📜 Certificate
- - [정보처리기사](https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=1320)(Engineer Information Processing), HRD Korea *2023. 00. ~ Now* -->
-
-<!-- ### Activity
-**Presentation**
- - [기술이름]("발표 영상링크") in [발표 조직]("발표 조직링크") -->
-
+<!-- 백준, 깃허브 관련 영역 -->
+<!--
 ## Cards
 <div align="center">
 
 [![dlstj0923's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khi4752)](https://solved.ac/profile/khi4752)
 ![Nemo's GitHub stats](https://github-readme-stats.vercel.app/api?username=brother1-4752&show_icons=true&theme=dark)
 
-</div>
+</div> -->
+
+## 🛠 Skill.
+| Category | Skills |
+|---|---|
+| **Language** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white) |
+| **Library & Framework** | ![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white) ![RTK-Query](https://img.shields.io/badge/RTK%20Query-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white) ![Tanstack Query](https://img.shields.io/badge/Tanstack%20Query-%23FF4154.svg?&style=for-the-badge&logo=react-query&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white) ![Slack](https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white) |
+| **Package Manager** | ![Yarn-Berry](https://img.shields.io/badge/Yarn%20Berry-%232C8EBB.svg?&style=for-the-badge&logo=yarn&logoColor=white) |
+
+## 📬 Contact.
+[![Velog](https://img.shields.io/badge/-Velog-2EC866?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@khi4752/posts)
+[![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%ED%98%95%EC%9D%BC-%EA%B9%80-0bb74a26a/)
