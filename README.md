@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=안녕하세요,%20김형일입니다.&fontColor=F7F5F5)
+![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=안녕하세요,%20네모입니다🙇‍♂️&fontColor=F7F5F5)
 
  - 맡은 작업이 **서비스 전반과 어떻게 연결되는지 파악**하고, **더 나은 해결책을 고민**하는 개발자입니다.
  - 월 방문자 수 **330만 명** 규모의 패션 커머스 플랫폼에서 **모든 광고 웹뷰 지면을 담당**하며, 다양한 실무자들과 협력해왔습니다. 각 실무자들과 대화의 눈높이를 맞추기 위해, **최소한의 소통에 필요한 백그라운드 지식을 학습**했습니다. 단순한 UI 구현을 넘어 서비스의 전체 흐름을 이해하며 최적화하는 데 집중했습니다.
