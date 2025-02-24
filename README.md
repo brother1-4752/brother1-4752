@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&height=270&color=gradient&text=안녕하세요,%20김형일입니다.&fontColor=F7F5F5)
-
+![header](https://capsule-render.vercel.app/api?type=rounded&height=210&color=gradient&text=안녕하세요,%20김형일입니다.&fontColor=F7F5F5)
 
  맡은 작업이 **서비스 전반과 어떻게 연결되는지 파악**하고, **더 나은 해결책을 고민**하는 개발자입니다.
 
